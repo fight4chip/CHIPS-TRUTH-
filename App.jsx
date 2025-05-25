@@ -1,4 +1,4 @@
-import './App.css';
+import '.src/App.css';
 import { Button } from './components/ui/button';
 
 function App() {
